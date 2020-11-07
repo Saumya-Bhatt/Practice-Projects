@@ -11,3 +11,7 @@ This repository contains the code for the small projects done as a practice. Pro
 
 1. Streamlit based python API dashboards
 2. Flask based To-Do App
+
+## Basic JavaScript projects
+
+1. Bcakground gradient generator
