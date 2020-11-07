@@ -1,0 +1,44 @@
+
+.result {
+  height: 80px;
+  background-color: black;
+  width: 100%;
+  color: whitesmoke;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.result p {
+  font-size: 30px;
+  padding: 20px;
+  font-family: monospace;
+  opacity: 70%;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: #bbb;
+  opacity: 70%;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 120px;
+  margin-bottom: 0px;
+  opacity: 60%;
+}
+
+body {
+  background: linear-gradient(to right, rgb(3, 102, 85), rgb(111, 194, 239));
+}
