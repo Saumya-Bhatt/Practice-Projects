@@ -1,7 +1,12 @@
-## Practice projects repository
+# Practice projects repository
 
-This repository contains the code for the small projects done as a practice.
+This repository contains the code for the small projects done as a practice. Projects within this directory are as follows:
 
-### React Projects
-1. Robofriends
-2. Calculator
+## React Projects
+
+1. Dynamically updating Robofriends
+2. Basic calculator
+
+## Python Projects
+
+1. Streamlit based python API dashboards
