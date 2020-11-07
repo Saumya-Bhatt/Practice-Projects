@@ -15,3 +15,4 @@ This repository contains the code for the small projects done as a practice. Pro
 ## Basic JavaScript projects
 
 1. Bcakground gradient generator - [https://background-gradient-generator.firebaseapp.com/](https://background-gradient-generator.firebaseapp.com/)
+2. Basic To-Do list - [https://to-do-list-e79d4.web.app/](https://to-do-list-e79d4.web.app/)
