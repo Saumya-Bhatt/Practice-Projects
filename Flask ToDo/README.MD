@@ -6,4 +6,4 @@ All CRUD operations done on Flask web frame work using SQLite database. To run t
 2. Open a python sheel in root and run: python app.py
 3. App hosted on localhost
 
-Globally hosted using Heroku (Procfile for that purpose)
+Globally hosted using Heroku -  [https://flaskcrud-todo.herokuapp.com/](https://flaskcrud-todo.herokuapp.com/)
