@@ -4,8 +4,9 @@ This repository contains the code for the small projects done as a practice. Pro
 
 ## React Projects
 
-1. Dynamically updating Robofriends
-2. Basic calculator
+1. Note Taking application - [https://react-note-taking-d5214.web.app/](https://react-note-taking-d5214.web.app/)
+2. Dynamically updating Robofriends
+3. Basic calculator
 
 ## Python Projects
 
